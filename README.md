@@ -1,1 +1,1 @@
-# hafizhanbiya
+<img src="https://github-readme-stats.vercel.app/api?username=Fizhu&&show_icons=true&title_color=70ffec&icon_color=79ff97&text_color=ffffff&bg_color=151515" width="100%">
